@@ -77,14 +77,6 @@ Please note:
 
 ---
 
-## Connect
-
-- Website: https://nexuscloud.id
-- Modrinth: https://modrinth.com/user/ZuffyMC
-- GitHub: https://github.com/ZuffyMC
-
----
-
 <div align="center">
 
 ### Building useful digital resources, one project at a time.
